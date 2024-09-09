@@ -76,10 +76,11 @@ print(classification_report1)
 ```
 
 ## Output:
+## Accuracy:
 ![Screenshot 2024-09-05 162120](https://github.com/user-attachments/assets/6b9aca63-4e6b-4e0b-a1fb-350d5e5d258a)
-
+## Classification report:
 ![Screenshot 2024-09-05 162128](https://github.com/user-attachments/assets/3855a914-2c20-4703-aae8-a658f155d309)
-
+## Y-pred:
 ![Screenshot 2024-09-05 162138](https://github.com/user-attachments/assets/f5374231-6443-4bd0-a3a4-94819b12c8c9)
 
 ## Result:
